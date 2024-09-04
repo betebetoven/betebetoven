@@ -22,7 +22,7 @@
   - **Tech4Good Competition (2024)**: Awarded **third place** among top teams in Latin America and the Caribbean for developing an innovative tech solution addressing critical social challenges.
   - **Huawei Seeds for the Future Program (2024)**: Selected participant in a highly competitive program focusing on ICT technologies and global networking.
 <p align="center">
-  <img src="me_award.jpg" alt="Alberto with Tech4Good Trophy" width="100" height="100"/>
+  <img src="me_award.jpg" alt="Alberto with Tech4Good Trophy" width="35%"/>
 </p>
 
 
