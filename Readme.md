@@ -54,7 +54,7 @@
 ## 🚀 Projects
 
 ### [TemisGPT](https://www.temisgpt.io)
-An AI Legal Assistant that provides responses based on legal documentation using GPT models. Designed with a user-friendly interface and semantic search embedding with an LLM pipeline. Currently supporting over 500 active users.
+An AI Legal Assistant that provides responses based on legal documentation using GPT models. Designed with a user-friendly interface and semantic search embedding with an LLM pipeline. Currently supporting over 1000 active users.
 
 ### [MDT](https://main.d22905saq15pol.amplifyapp.com)
 A Real-Time Transcription tool utilizing OpenAI Whisper for voice recognition and GPT-4 for summarization. Features include hands-free operation and Voice Activity Detection (VAD).
