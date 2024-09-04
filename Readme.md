@@ -42,6 +42,7 @@
   </a>
   <!-- Add more icons as needed -->
 </p>
+
 - **Programming Languages**: Python, JavaScript, Java, Rust, C++
 - **Frameworks**: Node.js, React, FastAPI, Flask, Actix
 - **Databases**: Firebase
